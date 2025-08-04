@@ -74,7 +74,7 @@ This project includes an AC load. When working with relays and 220V:
 Electrical Engineering Department  
 GIFT University, Gujranwala, Pakistan  
 GitHub: [@aliyan-hassan](https://github.com/aliyan-hassan)  
-Email: [aliyank7171@gmail.com](mailto:aliyank7171@gmail.com)
+Email: [aliyank7171@gmail.com](mailto:aliyank717@gmail.com)
 
 ---
 
