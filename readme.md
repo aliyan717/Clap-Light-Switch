@@ -55,7 +55,7 @@ The objective of this project is to design a low-cost, embedded system that can 
 
 > Replace the image below with your circuit diagram.
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](circuit1.png)
 
 ---
 
